@@ -1,0 +1,5 @@
+# shotcuts
+super + left_arrow                      left workspace
+supre + right_arrow                     right workspace
+super + shift + left_arrow              move window to left workspace
+super + shift + right_arrow             move window to right workspace
